@@ -1,0 +1,242 @@
+@charset "utf-8";
+/* CSS Document */
+
+.aboutSec{ background:#f1a40f; color:#fff; padding:150px 0;}
+.aboutSec .smallHead{opacity:1;}
+.aboutCount{ margin:75px 0 0; text-align:center}
+.aboutCount li{ display:inline-block; width:20%;}
+.aboutCount li .topCnt{ font-size:18px; font-weight:400; display:block;}
+.aboutCount li .topCnt .bigTxt{font-size:42px; font-weight:bold; margin-right:5px;}
+.aboutCount li .topCnt .btmCnt{ font-size:18px; font-weight:100; display:block;}
+.aboutSec a.linkBtn{ color:#fff;opacity:1}
+.aboutSec a.linkBtn:hover{opacity:0.7}
+.aboutSec a.linkBtn span,.aboutSec a.linkBtn:hover span, .contactWrap  a.linkBtn:hover span, .contactWrap a.linkBtn span{ background-position:bottom left;}
+
+
+.downLoadWrap{ background:rgba(255,255,255,0.6); position:fixed; width:100%; height:100%; left:0; top:0; z-index:100; display:none;}
+.downLoadWrap .downloadSec{ display:flex; align-items:center; align-content:center; text-align:center; position:absolute; width:100%; height:100%; left:0; top:0;}
+.downLoadWrap .downloadSec ul{ margin:auto; background:#fff; padding:20px;}
+.downLoadWrap .downloadSec ul li { float:left; margin:10px 30px;}
+.downLoadWrap .downloadSec ul li i{cursor:pointer; font-size:50px;}
+.downLoadWrap .downloadSec ul li button{border:none; background:none; color:#f1a40f;}
+.downLoadWrap .downloadSec ul li button:hover{ color:#de3a4e;}
+.downloadBtn{cursor:pointer;}
+
+
+.skilla-area{ width:100%; padding:100px 0; float:left; background:#eee; min-height:400px;-webkit-transition: all .5s ease-in-out; -moz-transition: all .5s ease-in-out; -o-transition: all .5s ease-in-out; transition: all .5s ease-in-out;}
+
+.skilla-area ul.main-skills li{ margin:0 10px; display:inline-block;}
+.skilla-area ul.main-skills li span{ display:block; margin-top:-85px; font-size:16px; color:#666;}
+
+.skilla-area ul.secondary{ margin-top:100px;}
+.skilla-area ul.secondary.designskill{ margin-top: 20px; margin-bottom: 70px;}
+.skilla-area ul.secondary li{ border-radius:50px; display:inline-block; border:solid 2px #E59E15; margin:5px; background: url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:0 100%; padding:8px 30px; color:#de3a4e;-webkit-transition: all .8s ease-in-out; -moz-transition: all .8s ease-in-out; -o-transition: all .8s ease-in-out; transition: all .8s ease-in-out;}
+.skilla-area ul.secondary.designskill li{color:#fff; background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:0 100%;  -webkit-transition: all .8s ease-in-out; -moz-transition: all .8s ease-in-out; -o-transition: all .8s ease-in-out; transition: all .8s ease-in-out;}
+.skilla-area ul.secondary li:hover{ border-color: #de3a4e; color: #fff;}
+.skilla-area ul.secondary li:hover.css3{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:92% 100%; }
+.skilla-area ul.secondary li:hover.html5{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:65% 100%; }
+.skilla-area ul.secondary li:hover.java{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:65% 100%; }
+.skilla-area ul.secondary li:hover.responsive{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:95% 100%; }
+.skilla-area ul.secondary li:hover.less-sass{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:40% 100%; }
+.skilla-area ul.secondary li:hover.bootstrap{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:92% 100%; }
+.skilla-area ul.secondary li:hover.dreamweaver{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:90% 100%; }
+.skilla-area ul.secondary li:hover.max{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:50% 100%; }
+.skilla-area ul.secondary li:hover.inDesign{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:60% 100%; }
+.skilla-area ul.secondary li:hover.corel{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:40% 100%; }
+.skilla-area ul.secondary li:hover.after{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:50% 100%; }
+.skilla-area ul.secondary li:hover.premier{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:50% 100%; }
+.skilla-area ul.secondary li:hover.notpad{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:90% 100%; }
+.skilla-area ul.secondary li:hover.bracket{background:#E59E15 url(../images/skill-bg-animation.png) no-repeat scroll left bottom; background-size:90% 100%; }
+.skilla-area .smallHead{ color: #000;}
+
+
+ .aboutBanner{ background:url(../images/Ragul_Banner.jpg) no-repeat scroll center center; background-size: 100% auto; min-height:500px;} 
+.aboutBanner .aboutBannetxtWrap{ padding-bottom:50px; position:absolute; bottom:0; left:0; width:100%; z-index:1;}
+.aboutBanner .aboutBannetxtWrap h1{ color:#fff; font-size:42px; margin-top:0; font-weight:bold;}
+.aboutBanner .aboutBannetxtWrap h3{ color:#fff; font-size:30px; font-weight:100; margin:0;}
+.aboutBanner.thankyou{ height: 100%;}
+.aboutBanner.thankyou .aboutBannetxtWrap h3{ font-size: 24px; margin-bottom: 20px;}
+.aboutBanner.thankyou .aboutBannetxtWrap span{color: #fff;}
+.aboutBanner .aboutBannetxtWrap p{text-transform: uppercase; color:#fff; opacity:0.6; font-weight:400; letter-spacing:13px;}
+.aboutBanner .aboutBannetxtWrap p a.linkBtn{letter-spacing:0px; color:#fff; opacity:1}
+.aboutBanner .aboutBannetxtWrap p a.linkBtn:hover{opacity:0.7}
+.aboutBanner .aboutBannetxtWrap p a.linkBtn span,.aboutSec a.linkBtn:hover span{ background-position:bottom left;}
+
+
+
+/*=============Portfolio CSS Starts=============*/
+
+.portfolioBannerWrap{ background:#0767dd url(../images/portfolio1.png) no-repeat scroll center right; background-size:auto 100%; min-height:100%;}
+.portfolioBannerWrap .portfolioBanner{ padding-bottom:50px; position:absolute; top:30%; left:0; width:100%; z-index:1;}
+.portfolioBannerWrap .portfolioBanner h1{ font-weight:600; margin-top:0;  color:#fff; font-size:42px;}
+.portfolioBannerWrap .portfolioBanner h3{font-size:30px; margin:0; color:#fff;}
+.portfolioBannerWrap .portfolioBanner p{text-transform: uppercase; color:#fff; opacity:0.6; font-weight:400; letter-spacing:8px;}
+.portfolioBannerWrap .portfolioBanner p a.linkBtn{letter-spacing:0px; color:#fff; opacity:1}
+.portfolioBannerWrap .portfolioBanner p a.linkBtn:hover{opacity:0.7}
+.portfolioBannerWrap .portfolioBanner p a.linkBtn span,.aboutSec a.linkBtn:hover span{ background-position:bottom left;}
+
+.gallerySec{background:#eee; padding:75px 0;}
+.gallerySec .grid-item { width: 25%; }
+.gallerySec .grid-item a{ display:block; margin:10px; background:#fff; padding:7px; border-radius:5px; overflow:hidden;}
+.gallerySec .grid-item a img{ opacity:1;}
+.gallerySec .grid-item a:hover img{ opacity:0.7;}
+.gallerySec .grid-item.grid-item-width2 { width: 50%; }
+
+.gallerySec .smallHead{ color:#000; text-align:center;}
+.ekko-lightbox.modal .modal-header{display:none;}
+.ekko-lightbox.modal .modal-body{ padding:0; min-height:300px; background:#f1a40f url(../preloader.svg) no-repeat scroll center center;}
+.ekko-lightbox-container .ekko-lightbox-nav-overlay .glyphicon-chevron-left{ position: fixed; top: 50%; left: -20px; z-index: 99; color: rgba(255,255,255,0.6);}
+.ekko-lightbox-container .ekko-lightbox-nav-overlay .glyphicon-chevron-right{ position: fixed; top: 50%; right: -20px; z-index: 99; color: rgba(255,255,255,0.6);}
+
+/*=============Portfolio CSS Ends=============*/
+
+/*=============UX Process CSS Ends=============*/
+
+.processBannerWrap{ background:#f5f4f0 url(../images/ux-process-banner.jpeg) no-repeat scroll center right; background-size:100% auto; min-height:100%;}
+.processBannerWrap .portfolioBanner{ padding-bottom:50px; position:absolute; top:30%; left:0; width:100%; z-index:1;}
+.processBannerWrap .portfolioBanner h1{ font-weight:600; margin-top:0;  color:#f1a40f; font-size:42px;}
+.processBannerWrap .portfolioBanner h3{font-size:30px; font-weight:100; margin:0; color:#de3a4e;}
+.processBannerWrap .portfolioBanner p{text-transform: uppercase; color:#000; opacity:0.6; font-weight:400; letter-spacing:8px;}
+.processBannerWrap .portfolioBanner p a.linkBtn{letter-spacing:0px; color:#f1a40f; opacity:1}
+.processBannerWrap .portfolioBanner p a.linkBtn:hover{opacity:0.7}
+.processBannerWrap .portfolioBanner p a.linkBtn span,.aboutSec a.linkBtn:hover span{ background-position:center left;}
+
+.serviceNew{text-align:center;}
+.serviceNew ul{display:inline-table; margin:0; padding:100px 0;  position:relative;}
+.serviceNew ul:after{position:absolute;content:""; height:100%; width:1px; background:#666; left:50%; margin-left:-1px; top:0;}
+.serviceNew ul > li{width:100%; margin-bottom:100px; display:block;}
+.serviceNew ul > li:last-child{margin-bottom: 0;}
+.serviceNew ul li .uxdiv{max-width:500px;}
+.serviceNew ul li h2{font-weight:100; font-size:30px; margin:50px 0 10px;}
+.serviceNew ul li h3{font-weight:400; font-size:18px; margin:0 0 20px 0;}
+.serviceNew ul li p{color:#666; font-weight:300;}
+.serviceNew ul li .imgwrap{ position:relative;}
+.serviceNew ul li .f-left{ float:left; padding-right:50px; text-align:right;}
+.serviceNew ul li .f-right{ float:right; padding-left:49px; text-align:left;}
+.serviceNew ul li .f-left .imgwrap:after{ content:""; position:absolute; right:-58px; border:solid 4px #dc2f2f; width:17px; height:17px; background:#fff; top:50%; border-radius:50%; z-index:2;}
+.serviceNew ul li .f-right .imgwrap:after{ content:""; position:absolute; left:-58px; border:solid 4px #dc2f2f; width:17px; height:17px; background:#fff; top:50%; border-radius:50%; z-index:2;}
+.serviceNew ul li ol{ margin-left:30px;}
+
+/*=============UX Process CSS Ends=============*/
+
+
+.enquiryFrom{ padding-left:50px;}
+.enquiryFrom h1{ font-size:34px; font-weight:100; color:#fff; margin-top:-30px; margin-bottom:20px;}
+
+.enquiry{ margin-bottom:20px;}
+.enquiry li{ position:relative; padding:0; min-height:35px; margin-bottom:30px; width:100%;  }
+.enquiry li span{ position:absolute; width:100%; top:0; left:0; height:100%; font-size:16px; z-index:1; color:#fff; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
+.enquiry li span.clicked{ top:-20px; left:0; font-size:12px; color:#ddd;}
+.enquiry li .form-control{font-size:16px; border:none; border-bottom:solid thin #fff; color:#fff;  box-shadow:none;border-radius:0; opacity:1; width:100%; min-height:35px; z-index:3; background:none; position:absolute; left:0; top:0;}
+.enquiry li .form-control:focus{ border-bottom:solid thin #ccc; box-shadow:none; }
+.enquiry li.textarea{ min-height:70px;}
+.enquiry li .form-control.error { border-bottom: solid thin red;}
+.enquiry li .btn-block.btn-lg{border:none; box-shadow:none; border-radius:2px; background:#f1a40f; color:#fff; text-shadow:none; text-transform:uppercase;}
+.enquiry li .btn-block.btn-lg:hover, .enquiry li .btn-block.btn-lg:focus{background:#de3a4e; }
+
+.contactBannerWrap{padding-top:130px; background:#74a820; min-height:100%;}
+.contactBannerWrap .contactBanner{ padding-bottom:50px; position:absolute; bottom:25%; left:0; width:100%; z-index:1;}
+.contactWrap{ text-align:center;}
+.contactWrap .linkBtn{ color:#fff; opacity:1;}
+.contactWrap .cntct{padding-top:10px; position:absolute; top:26px; left:117px; z-index:3; height:263px; width:419px;}
+.contactWrap .cntct h2{ font-size:38px; color:#f1a40f; font-weight:bold; margin-bottom:0; line-height:1;}
+.contactWrap .cntct h2.phone2{ color:#de3a4e;}
+.contactWrap .cntct h3{ font-size:28px;  margin-bottom:0; font-weight:bold; line-height:1;}
+.contactWrap .cntct h3 a{ color:#74a820;}
+.contactWrap .cntct h3.email2{ font-size:22px;}
+
+@media screen and (min-width: 992px) and (max-width:1199px) {
+
+	.contactWrap .cntct{ left:0; top:0; width:100%; height:100%; padding-top:10%;}
+	.contactWrap .cntct h2{ font-size:28px; margin-top:5px;}
+	.contactWrap .cntct h3{ font-size:22px; margin-top:10px;}
+	.contactWrap .cntct h3.email2{ font-size:20px;}
+    .aboutBanner{ background-size: auto 100%;}
+}
+
+@media screen and (min-width: 768px) and (max-width:991px) {
+
+	.gallerySec .grid-item { width:33.333%; }
+	.gallerySec .grid-item.grid-item-width2 { width: 50%; }
+	
+	.contactWrap{ padding-top:8%;}
+	.contactWrap .cntct{ left:0; top:0; width:100%; height:100%; padding-top:10%;}
+	.contactWrap .cntct h2{ font-size:20px; margin-top:5px;}
+	.contactWrap .cntct h3{ font-size:14px; margin-top:10px;}
+	.contactWrap .cntct h3.email2{ font-size:12px;}
+	.enquiryFrom h1{ margin:-20px 0 20px 0;}
+	.enquiryFrom{ padding-left:15px;}
+	.portfolioBannerWrap .portfolioBanner{ bottom:15%;}
+	.aboutBanner{ background-size: auto 100%;}
+    
+    .serviceNew ul li .uxdiv{ max-width:50%;}
+	.serviceNew ul li .f-right {padding-right:40px;}
+	.serviceNew ul li .f-left {padding-left:40px;}
+	.serviceNew ul li .f-right .imgwrap::after{left:-59px;}
+	.serviceNew ul li .f-left .imgwrap::after{right:-58px;}
+    .processBannerWrap{ background:#0767dd url(../images/ux-process-banner.jpeg) no-repeat scroll top left; background-size:auto 100%;}
+	}
+
+@media screen and (min-width: 480px) and (max-width:767px) {
+
+	.gallerySec .grid-item, .gallerySec .grid-item.grid-item-width2  { width:50%; }
+	
+	.contactWrap{background: #333;padding: 20px 15px 40px;margin-top: 30px;}
+	.contactWrap .cntct{ left:0; top:0; width:100%; height:100%; padding-top:10%;}
+	.contactWrap .cntct h2{ font-size:28px; margin-top:10px;}
+	.contactWrap .cntct h3{ font-size:22px; margin-top:10px;}
+	.contactWrap .cntct h3.email2{ font-size:20px;}
+	.enquiryFrom h1{ margin:40px 0 20px 0;}
+	.enquiryFrom{ padding-left:15px;}
+	.portfolioBannerWrap{background-position:botttom right; background-size:80% 100%;}
+	.portfolioBannerWrap .portfolioBanner{ padding:50px 30px 30px; bottom:22%;}
+	
+    .ekko-lightbox.modal .modal-body{ min-height: 200px;}
+    .aboutBanner{ background-size: auto 100%; background-position: 70% center;}
+    
+    .serviceNew ul::after{left:20px;}
+	.serviceNew ul{padding:20px 0 20px 20px;}
+	.serviceNew ul li .uxdiv{width:100%;padding:0 20px; max-width:none; width:100%;}
+	.serviceNew ul li .f-left .imgwrap::after,.serviceNew ul li .f-right .imgwrap::after{left:-29px;}
+    .serviceNew ul li .f-left{text-align:left;}
+    .processBannerWrap{ background:#0767dd url(../images/ux-process-banner.jpeg) no-repeat scroll top left; background-size:auto 100%;}
+    .serviceNew ul li h2{ margin-top: 20px;}
+    .processBannerWrap .portfolioBanner{ padding: 0 20px;
+	}
+
+@media screen and (max-width: 480px) {
+
+    .portfolioBannerWrap{ background:#0767dd url(../images/portfolio1-mobile.png) no-repeat scroll center right;}
+    .processBannerWrap{ background:#0767dd url(../images/ux-process-banner.jpeg) no-repeat scroll top left; background-size:auto 100%;}
+    .serviceNew ul li h2{ margin-top: 20px;}
+    .processBannerWrap .portfolioBanner{ padding: 0 20px;}
+	.gallerySec .grid-item,.gallerySec .grid-item.grid-item-width2 { width:50%; }
+	.gallerySec .grid-item a{padding:5px; margin:5px;}
+	.portfolioBannerWrap .portfolioBanner{ top:100%; bottom:auto; background:#0767dd; padding:20px;}
+	.portfolioBannerWrap .portfolioBanner h1{ font-size:24px;}
+	.portfolioBannerWrap .portfolioBanner h3{ font-size:20px;}
+	.gallerySec{ padding-top:300px;}
+	
+	.contactWrap{background: #333;padding: 20px 0 40px;margin-top: 30px;}
+	.contactWrap .cntct{ left:0; top:0; width:100%; height:100%; padding-top:10%;}
+	.contactWrap .cntct h2{ font-size:20px; margin-top:5px;}
+	.contactWrap .cntct h3{ font-size:14px; margin-top:10px;}
+	.contactWrap .cntct h3.email2{ font-size:12px;}
+	.enquiryFrom h1{ margin:40px 0 20px 0;}
+	.enquiryFrom{ padding-left:15px;}
+	.ekko-lightbox.modal .modal-body{ min-height: 200px;}
+    .aboutBanner{ background:url(../images/Mobile_Banner.jpg) no-repeat scroll center center;} 
+    
+    .serviceNew ul::after{left:20px;}
+	.serviceNew ul{padding:20px 0 20px 20px;}
+	.serviceNew ul li .uxdiv{width:100%;padding:0 20px; max-width:none; width:100%;}
+	.serviceNew ul li .f-left .imgwrap::after,.serviceNew ul li .f-right .imgwrap::after{left:-29px;}
+	.serviceNew ul li .f-left{text-align:left;}
+    
+	}
+
+
+.contactWrap h3 i.fa.fa-envelope-o {
+    color: black;
+}
+
