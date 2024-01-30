@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width: 960px) and (max-width: 1159px) {
+	
+	
+	}
+	
+@media screen and (max-width:1159px) {
+	.wrapper{padding:0 3%; max-width:100%; margin:0 auto;}
+	.service-area .services li{ float:none; display:inline-table; min-width:300px; margin-bottom:40px; max-width:100%;}
+	.skilla-area ul.main-skills li{ margin:50px 10px 0 10px;}
+	.service-area{ min-height:700px; width:100%; float:left; background:url(../images/talent-area-bg.jpg) no-repeat fixed!important; background-size:100% 100%; padding:50px 0;}
+	.about-page .wrapper .new{ width:100%;}
+	.about-page .wrapper .new .title{ margin:50px 100px 0 0}
+	.about-page .wrapper .content{ margin-top:30px; width:100%;}
+	.about-page .wrapper .content img{ margin-top:-30px;}
+	.about-page.contact .width50{ width:auto; float:right;}
+	.about-page.contact .wrapper .content{ margin-top:50px;}
+	}
+@media screen and (min-width:768px) and (max-width: 959px) {
+
+	.wrapper{ width:100%; padding:0 3%;}
+	.works-area .works li{ display:inline-block; min-width:300px; float:none; max-width:50%;}
+	footer .social:first-child{ margin-bottom:50px;}
+	.about-area .width50 img{ max-width:95%;}
+	.about-page.contact .wrapper .content{ margin-top:50px; width:90%;}
+	.hi-its-me span.a { font-size:30px;}
+	.hi-its-me span.b{ font-size:36px;}
+	.hi-its-me{ margin-top:50px;}
+	.serviceNew ul li .uxdiv{ max-width:50%;}
+	.serviceNew ul li .f-right {padding-right:40px;}
+	.serviceNew ul li .f-left {padding-left:40px;}
+	.serviceNew ul li .f-right .imgwrap::after{left:-59px;}
+	.serviceNew ul li .f-left .imgwrap::after{right:-58px;}
+	
+	.hi-its-me{ position:absolute; bottom:10px; width:100%; padding:0 30px;}
+	.hi-its-me img{ display:none;}
+	.hi-its-me h1.b{ font-size:50px;}
+	.whatIDoArea .whatIdoDiv{ padding:40px 15px; margin-bottom:10px;}
+	
+	
+	}
+@media screen and (max-width:767px) {
+	.serviceNew ul::after{left:20px;}
+	.serviceNew ul{padding:20px 0 20px 20px;}
+	.serviceNew ul li .uxdiv{width:100%;padding:0 20px; max-width:none; width:100%;}
+	.serviceNew ul li .f-left .imgwrap::after,.serviceNew ul li .f-right .imgwrap::after{left:-29px;}
+	.serviceNew ul li .f-left{text-align:left;}
+	.skilla-area{background-size:100% 100%;}
+}	
+	
+	
+@media screen and (max-width:600px) {
+	
+	.works-area .works li{ display:inline-block; min-width:300px; float:none; max-width:50%;}
+	footer .social:first-child{ margin-bottom:50px;}
+	footer .social:first-child li:last-child a{border-top:solid thin rgba(255, 255, 255, 0.1)!important;border-right:solid thin rgba(255, 255, 255, 0.1)!important; border-left:solid thin  rgba(255, 255, 255, 0);}
+    .downLoadWrap .downloadSec ul li{margin: 10px 20px;}
+	.aboutCount li{ padding:10px;}
+	}
+
+@media screen and (min-width: 480px) and (max-width:767px) {
+	
+	.works-area .works li{ display:inline-block; min-width:49%; float:none; max-width:50%;}
+	footer .social:first-child{ margin-bottom:50px;}
+	footer .social:first-child li:last-child a{border-top:solid thin rgba(255, 255, 255, 0)!important;border-right:solid thin rgba(255, 255, 255, 0)!important; border-left:solid thin  rgba(255, 255, 255, 0);}
+	.menu{right:0; top:22px;}
+	.logo{left:30px; z-index:22;}
+	
+	.aboutBanner{ background-position:75% bottom;}
+	.aboutBanner .aboutBannetxtWrap{ padding:30px;}
+	.aboutCount li{ padding:10px; width:33.333%; margin-bottom:30px;}
+	.aboutCount li:last-child{margin-bottom:0px;}
+	
+	.homeSlide{height:auto; min-height:360px;}
+	.whatIDoArea .whatIdoDiv{ padding:40px 15px; margin-bottom:10px;}
+	.hi-its-me h1.b, .hi-its-me span.a{ display:none;}
+	.hi-its-me{ margin-bottom:-120px; position:absolute;}
+	
+	}
+
+@media screen and (max-width: 480px) {
+
+    .homeSlide{ background: background:#d4d0cd url(../images/Banner1-mobile.jpeg) no-repeat fixed center bottom;}
+	.aboutBanner .aboutBannetxtWrap{ padding:80px;}
+	.aboutBanner .aboutBannetxtWrap p > span{ display:block; margin-bottom:20px;}
+	.aboutBanner .aboutBannetxtWrap p a.linkBtn{ float:left!important;}
+	
+	.aboutCount li{ padding:10px; width:100%; margin-bottom:30px;}
+	.aboutCount li:last-child{margin-bottom:0px;}
+	.whatIDoArea .whatIdoDiv{ padding:40px 15px; margin-bottom:10px;}
+	.hi-its-me img { display:none;}
+	.hi-its-me{ display:block; position:absolute; width:100%; bottom:30px; background:rgba(0,0,0,0.5); z-index:1;}
+	.hi-its-me span.a{color:#fff; font-size:14px;}
+	.hi-its-me h1.b{ color:#fff; font-size:24px;}
+	.mobileImgHome{display:block; min-height:100%; width:auto; min-width:100%; max-width:none;}
+	.menu{right:0; top:22px;}
+	.logo{left:30px;}
+	footer .callWrap .col-xs-6, footer .emailWrap .col-xs-6{ width:100%; margin-bottom:1px; font-size:20px!important;}
+	footer .social.line2{margin-top:-10px;}
+	}
+
