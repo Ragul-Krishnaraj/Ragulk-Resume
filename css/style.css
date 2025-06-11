@@ -109,3 +109,10 @@ footer .emailWrap .col-xs-6:first-child{ background:#f1a40f; line-height:4;}
 .downLoadWrap .downloadSec ul li button{border:none; background:none; color:#f1a40f;}
 .downLoadWrap .downloadSec ul li button:hover{ color:#de3a4e;}
 .downloadBtn{cursor:pointer;}
+
+.custom-img{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    border: 5px solid #ffffff;
+}
