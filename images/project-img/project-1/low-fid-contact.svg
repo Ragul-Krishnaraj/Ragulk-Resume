@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <filter id="Area_DISPLAY_ELEMENTS:DEFAULT_" x="235" y="82" width="904" height="608" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-low-fid-contact">
+      <rect width="1366" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="low-fid-contact" clip-path="url(#clip-low-fid-contact)">
+    <rect width="1366" height="768" fill="#fbfbfb"/>
+    <rect id="Background_STYLE:STYLE2_" data-name="Background [STYLE:STYLE2]" width="1366" height="768" fill="#ebebeb"/>
+    <g id="Sign_Up" data-name="Sign Up" transform="translate(95 -44.5)">
+      <g id="Card_DISPLAY_ELEMENTS_DEFAULT_" data-name="Card [DISPLAY_ELEMENTS=DEFAULT]" transform="translate(45 171)">
+        <g transform="matrix(1, 0, 0, 1, -140, -126.5)" filter="url(#Area_DISPLAY_ELEMENTS:DEFAULT_)">
+          <g id="Area_DISPLAY_ELEMENTS:DEFAULT_2" data-name="Area [DISPLAY_ELEMENTS:DEFAULT]" transform="translate(235 82)" fill="#fff" stroke="#cfcfcf" stroke-width="2">
+            <rect width="896" height="600" stroke="none"/>
+            <rect x="1" y="1" width="894" height="598" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Background_STYLE:STYLE2_2" data-name="Background [STYLE:STYLE2]" width="432" height="568" transform="translate(588 142.5)" fill="#ebebeb"/>
+      <g id="Location_Pin" data-name="Location Pin" transform="translate(48 127)">
+        <circle id="Ellipse" cx="40" cy="40" r="40" transform="translate(716 259.5)" fill="#cfcfcf"/>
+        <circle id="Ellipse-2" data-name="Ellipse" cx="14" cy="14" r="14" transform="translate(742 285.5)" fill="#3c3c3c"/>
+      </g>
+      <g id="Button_DISPLAY_ELEMENTS_Label_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE1_" data-name="Button [DISPLAY_ELEMENTS=Label][SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE1]" transform="translate(200 618.5)">
+        <rect id="Area_DISPLAY_ELEMENTS:Label_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE1_" data-name="Area [DISPLAY_ELEMENTS:Label][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE1]" width="328" height="48" fill="#3c3c3c"/>
+        <text id="Label" transform="translate(164 30)" fill="#fcfcfc" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-19.192" y="0">Send</tspan></text>
+      </g>
+      <g id="Input_DISPLAY_ELEMENTS_Default_STATE_DEFAULT_" data-name="Input [DISPLAY_ELEMENTS=Default][STATE=DEFAULT]" transform="translate(372 442.5)">
+        <g id="Area_DISPLAY_ELEMENTS:Default_STATE:DEFAULT_" data-name="Area [DISPLAY_ELEMENTS:Default][STATE:DEFAULT]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="156" height="48" stroke="none"/>
+          <rect x="1" y="1" width="154" height="46" fill="none"/>
+        </g>
+        <text id="Value" transform="translate(16 30)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">Email Address</tspan></text>
+      </g>
+      <g id="Input_DISPLAY_ELEMENTS_Default_STATE_DEFAULT_2" data-name="Input [DISPLAY_ELEMENTS=Default][STATE=DEFAULT]" transform="translate(200 442.5)">
+        <g id="Area_DISPLAY_ELEMENTS:Default_STATE:DEFAULT_2" data-name="Area [DISPLAY_ELEMENTS:Default][STATE:DEFAULT]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="156" height="48" stroke="none"/>
+          <rect x="1" y="1" width="154" height="46" fill="none"/>
+        </g>
+        <text id="Value-2" data-name="Value" transform="translate(16 30)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">Name</tspan></text>
+      </g>
+      <g id="Textarea_DISPLAY_ELEMENTS_Default_STATE_DEFAULT_" data-name="Textarea [DISPLAY_ELEMENTS=Default][STATE=DEFAULT]" transform="translate(200 506.5)">
+        <g id="Area_DISPLAY_ELEMENTS:Default_STATE:DEFAULT_3" data-name="Area [DISPLAY_ELEMENTS:Default][STATE:DEFAULT]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="328" height="96" stroke="none"/>
+          <rect x="1" y="1" width="326" height="94" fill="none"/>
+        </g>
+        <text id="Value-3" data-name="Value" transform="translate(16 13)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="17">Write your message here</tspan></text>
+      </g>
+      <g id="Circle_Button_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE2_" data-name="Circle Button [SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE2]" transform="translate(940 174.5)">
+        <g id="Area_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="48" height="48" rx="24" stroke="none"/>
+          <rect x="1" y="1" width="46" height="46" rx="23" fill="none"/>
+        </g>
+        <g id="Icon_ICON_feather_x_SIZE_MEDIUM_STATE_DEFAULT_STYLE_STYLE2_" data-name="Icon [ICON=feather/x][SIZE=MEDIUM][STATE=DEFAULT][STYLE=STYLE2]" transform="translate(14 14)">
+          <rect id="Area_ICON:feather_x_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [ICON:feather/x][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" width="20" height="20" fill="rgba(253,73,198,0.35)" opacity="0"/>
+          <g id="Icon" transform="translate(5 5)">
+            <line id="c2d85bff-915f-41f1-8020-3a33933c8d20" x1="20" y2="20" transform="translate(-5 -5)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.333"/>
+            <line id="_49f9c673-45ff-4bab-a277-af2cee9bde65" data-name="49f9c673-45ff-4bab-a277-af2cee9bde65" x2="20" y2="20" transform="translate(-5 -5)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.333"/>
+          </g>
+        </g>
+      </g>
+      <g id="Icon_ICON_feather_map-pin_SIZE_LARGE_STYLE_STYLE1_" data-name="Icon [ICON=feather/map-pin][SIZE=LARGE][STYLE=STYLE1]" transform="translate(200 261.5)">
+        <rect id="Area_ICON:feather_map-pin_SIZE:LARGE_STYLE:STYLE1_" data-name="Area [ICON:feather/map-pin][SIZE:LARGE][STYLE:STYLE1]" width="24" height="24" fill="#fcfcfc" opacity="0"/>
+        <g id="Icon-2" data-name="Icon" transform="translate(-1 -1)">
+          <path id="_777cba25-85d7-47d5-984e-b1382a2960c6" data-name="777cba25-85d7-47d5-984e-b1382a2960c6" d="M22.909,10.909c0,7.636-9.818,14.182-9.818,14.182S3.273,18.545,3.273,10.909a9.818,9.818,0,1,1,19.636,0Z" transform="translate(-0.091 -0.091)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.182"/>
+          <circle id="a4729790-a300-49e2-a715-44a63be69f37" cx="3.273" cy="3.273" r="3.273" transform="translate(9.727 7.546)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.182"/>
+        </g>
+      </g>
+      <g id="Icon_ICON_feather_phone_SIZE_LARGE_STYLE_STYLE1_" data-name="Icon [ICON=feather/phone][SIZE=LARGE][STYLE=STYLE1]" transform="translate(200 309.5)">
+        <rect id="Area_ICON:feather_phone_SIZE:LARGE_STYLE:STYLE1_" data-name="Area [ICON:feather/phone][SIZE:LARGE][STYLE:STYLE1]" width="24" height="24" fill="#fcfcfc" opacity="0"/>
+        <g id="Icon-3" data-name="Icon" transform="translate(-1 -1)">
+          <path id="_5bd8187b-c12d-4aba-8371-80d9cc1f99e0" data-name="5bd8187b-c12d-4aba-8371-80d9cc1f99e0" d="M26.5,20.377V23.99A2.408,2.408,0,0,1,23.87,26.4a23.833,23.833,0,0,1-10.394-3.7A23.5,23.5,0,0,1,6.25,15.476a23.834,23.834,0,0,1-3.7-10.442,2.408,2.408,0,0,1,2.4-2.625H8.563A2.407,2.407,0,0,1,10.971,4.48a15.526,15.526,0,0,0,.843,3.384,2.406,2.406,0,0,1-.542,2.541l-1.529,1.53a19.272,19.272,0,0,0,7.226,7.226l1.529-1.53a2.41,2.41,0,0,1,2.542-.542,15.4,15.4,0,0,0,3.384.843A2.409,2.409,0,0,1,26.5,20.377Z" transform="translate(-1.52 -1.408)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.409"/>
+        </g>
+      </g>
+      <g id="Icon_ICON_feather_smartphone_SIZE_LARGE_STYLE_STYLE1_" data-name="Icon [ICON=feather/smartphone][SIZE=LARGE][STYLE=STYLE1]" transform="translate(200 357.5)">
+        <rect id="Area_ICON:feather_smartphone_SIZE:LARGE_STYLE:STYLE1_" data-name="Area [ICON:feather/smartphone][SIZE:LARGE][STYLE:STYLE1]" width="24" height="24" fill="#fcfcfc" opacity="0"/>
+        <g id="Icon-4" data-name="Icon" transform="translate(-1 -1)">
+          <rect id="_3a98e93f-8d58-4bc1-a61f-3b92ac0ef0f3" data-name="3a98e93f-8d58-4bc1-a61f-3b92ac0ef0f3" width="16.8" height="24" rx="2" transform="translate(4.6 1)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4"/>
+          <line id="b290aadb-3c95-444e-b48f-cc24164cc1c0" x2="0.012" transform="translate(13 20.2)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4"/>
+        </g>
+      </g>
+      <text id="Address" transform="translate(240 262.5)" fill="#3d3d3d" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="17">123 Mockup St., New York</tspan></text>
+      <text id="Phone" transform="translate(240 310.5)" fill="#3d3d3d" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="17">(+1) 123 456 7890 </tspan></text>
+      <text id="Mobile" transform="translate(240 358.5)" fill="#3d3d3d" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="17">(+1) 123 456 7891</tspan></text>
+      <text id="Title_TAG:H4_" data-name="Title [TAG:H4]" transform="translate(200 220.5)" fill="#3d3d3d" font-size="32" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">Get In Touch</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="31" viewBox="0 0 112 31">
+  <g id="Status" transform="translate(-1171 -1595)">
+    <path id="Path_2903" data-name="Path 2903" d="M0,0H100" transform="translate(1177.5 1601.5)" fill="none" stroke="#cdced0" stroke-width="1"/>
+    <path id="Path_2902" data-name="Path 2902" d="M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" transform="translate(1171 1595)" fill="#0038ff"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(1191 1595)" fill="#cdced0"/>
+    <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(1211 1595)" fill="#cdced0"/>
+    <circle id="Ellipse_1-3" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(1231 1595)" fill="#cdced0"/>
+    <circle id="Ellipse_1-4" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(1251 1595)" fill="#cdced0"/>
+    <circle id="Ellipse_1-5" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(1271 1595)" fill="#cdced0"/>
+    <text id="Identifying_Problem" data-name="Identifying Problem" transform="translate(1171 1613)" fill="#6a6d73" font-size="10" font-family="Montserrat-Regular, Montserrat"><tspan x="-100.4" y="10">Identifying Problem</tspan></text>
+  </g>
+</svg>

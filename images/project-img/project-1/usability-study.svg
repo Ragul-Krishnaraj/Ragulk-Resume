@@ -1,0 +1,321 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1764" height="1378" viewBox="0 0 1764 1378">
+  <defs>
+    <filter id="Rectangle_1" x="62" y="125" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-2" x="44" y="363" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-3" x="62" y="601" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-4" x="283" y="639" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-5" x="309" y="870" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-6" x="283" y="1108" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-7" x="44" y="1077" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-8" x="44" y="839" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-9" x="309" y="408" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-10" x="297" y="170" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-11" x="646" y="125" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-12" x="628" y="363" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-13" x="646" y="601" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-14" x="867" y="639" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-15" x="893" y="870" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-16" x="628" y="839" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-16"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-17" x="893" y="408" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-17"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-18" x="881" y="170" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-18"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-19" x="1230" y="125" width="470" height="470" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-19"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-20" x="1230" y="618" width="470" height="470" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-20"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-usability-study">
+      <rect width="1764" height="1378"/>
+    </clipPath>
+  </defs>
+  <g id="usability-study" clip-path="url(#clip-usability-study)">
+    <rect width="1764" height="1378" fill="#fff"/>
+    <g id="usability-study-2" data-name="usability-study">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="1764" height="1378" fill="#fff"/>
+      <g id="research-analysis" transform="translate(24)">
+        <g id="Group_12" data-name="Group 12" transform="translate(0 -87)">
+          <g id="Group_11" data-name="Group 11" transform="translate(0 -37)">
+            <g id="Group_1" data-name="Group 1" transform="translate(0 193)">
+              <g transform="matrix(1, 0, 0, 1, -24, -69)" filter="url(#Rectangle_1)">
+                <rect id="Rectangle_1-21" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(71 131)" fill="#f6c2d9"/>
+              </g>
+              <text id="Lot_of_options_immediately_eye_wasn_t_sure_where_to_land" data-name="Lot of options
+immediately, eye wasn&apos;t sure where to land" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Lot of options</tspan><tspan x="0" y="43">immediately, eye </tspan><tspan x="0" y="69">wasn&apos;t sure where </tspan><tspan x="0" y="95">to land</tspan></text>
+            </g>
+            <g id="Group_3" data-name="Group 3" transform="translate(-18 431)">
+              <g transform="matrix(1, 0, 0, 1, -6, -307)" filter="url(#Rectangle_1-2)">
+                <rect id="Rectangle_1-22" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(53 369)" fill="#bcdfc9"/>
+              </g>
+              <text id="Streamlined_approachable_and_sensical_to_eye" data-name="Streamlined, approachable, and sensical to eye" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Streamlined, </tspan><tspan x="0" y="43">approachable, </tspan><tspan x="0" y="69">and sensical to </tspan><tspan x="0" y="95">eye</tspan></text>
+            </g>
+            <g id="Group_5" data-name="Group 5" transform="translate(0 669)">
+              <g transform="matrix(1, 0, 0, 1, -24, -545)" filter="url(#Rectangle_1-3)">
+                <rect id="Rectangle_1-23" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(71 607)" fill="#bcdfc9"/>
+              </g>
+              <text id="Does_not_make_me_stressed_being_on_the_site" data-name="Does not make me stressed being on the site" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Does not make </tspan><tspan x="0" y="43">me stressed </tspan><tspan x="0" y="69">being on the site</tspan></text>
+            </g>
+            <g id="Group_6" data-name="Group 6" transform="translate(221 707)">
+              <g transform="matrix(1, 0, 0, 1, -245, -583)" filter="url(#Rectangle_1-4)">
+                <rect id="Rectangle_1-24" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(292 645)" fill="#bcdfc9"/>
+              </g>
+              <text id="Trustworthy_and_informative_yet_friendly" data-name="Trustworthy and informative, yet friendly" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Trustworthy and </tspan><tspan x="0" y="43">informative, yet </tspan><tspan x="0" y="69">friendly</tspan></text>
+            </g>
+            <g id="Group_10" data-name="Group 10" transform="translate(247 938)">
+              <g transform="matrix(1, 0, 0, 1, -271, -814)" filter="url(#Rectangle_1-5)">
+                <rect id="Rectangle_1-25" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(318 876)" fill="#fff69b"/>
+              </g>
+              <text id="It_would_have_been_great_if_I_could_read_5-10_pages_of_the_books_before_buying_it." data-name="It would have been great if I could read 5-10 pages of the books before buying it." transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">It would have </tspan><tspan x="0" y="43">been great if I </tspan><tspan x="0" y="69">could read 5-10 </tspan><tspan x="0" y="95">pages of the </tspan><tspan x="0" y="121">books before </tspan><tspan x="0" y="147">buying it.</tspan></text>
+            </g>
+            <g id="Group_8" data-name="Group 8" transform="translate(221 1176)">
+              <g transform="matrix(1, 0, 0, 1, -245, -1052)" filter="url(#Rectangle_1-6)">
+                <rect id="Rectangle_1-26" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(292 1114)" fill="#bcdfc9"/>
+              </g>
+              <text id="Definitely_informative_and_friendly_I_would_want_them_to_earn_my_trust." data-name="Definitely informative and friendly, I would want them to earn my trust." transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Definitely </tspan><tspan x="0" y="43">informative and </tspan><tspan x="0" y="69">friendly, I would </tspan><tspan x="0" y="95">want them to </tspan><tspan x="0" y="121">earn my trust.</tspan></text>
+            </g>
+            <g id="Group_9" data-name="Group 9" transform="translate(-18 1145)">
+              <g transform="matrix(1, 0, 0, 1, -6, -1021)" filter="url(#Rectangle_1-7)">
+                <rect id="Rectangle_1-27" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(53 1083)" fill="#bcdfc9"/>
+              </g>
+              <text id="It_s_a_very_aesthetically_pleasing_and_clean_site" data-name="It&apos;s a very aesthetically pleasing and clean site" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">It&apos;s a very </tspan><tspan x="0" y="43">aesthetically </tspan><tspan x="0" y="69">pleasing and </tspan><tspan x="0" y="95">clean site</tspan></text>
+            </g>
+            <g id="Group_7" data-name="Group 7" transform="translate(-18 907)">
+              <g transform="matrix(1, 0, 0, 1, -6, -783)" filter="url(#Rectangle_1-8)">
+                <rect id="Rectangle_1-28" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(53 845)" fill="#bcdfc9"/>
+              </g>
+              <text id="Feels_like_a_less_complicated_like_a_quick_and_easy_way_but_at_the_same_time_doesn_t_feel_too_simple_like_it_s_not_reliable" data-name="Feels like a less complicated, like a  quick and easy way but at the same time doesn&apos;t feel too simple like it&apos;s not reliable" transform="translate(54 74)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Feels like a less </tspan><tspan x="0" y="43" xml:space="preserve">complicated, like a  </tspan><tspan x="0" y="69">quick and easy way </tspan><tspan x="0" y="95">but at the same </tspan><tspan x="0" y="121">time doesn&apos;t feel too </tspan><tspan x="0" y="147">simple like it&apos;s not </tspan><tspan x="0" y="173">reliable</tspan></text>
+            </g>
+            <g id="Group_4" data-name="Group 4" transform="translate(247 476)">
+              <g transform="matrix(1, 0, 0, 1, -271, -352)" filter="url(#Rectangle_1-9)">
+                <rect id="Rectangle_1-29" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(318 414)" fill="#bcdfc9"/>
+              </g>
+              <text id="I_like_the_large_text_and_illustrations." data-name="I like the large text and illustrations." transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">I like the large </tspan><tspan x="0" y="43">text and </tspan><tspan x="0" y="69">illustrations.</tspan></text>
+            </g>
+            <g id="Group_2" data-name="Group 2" transform="translate(235 238)">
+              <g transform="matrix(1, 0, 0, 1, -259, -114)" filter="url(#Rectangle_1-10)">
+                <rect id="Rectangle_1-30" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(306 176)" fill="#bcdfc9"/>
+              </g>
+              <text id="Great_job_of_presenting_a_lot_of_information_and_directives" data-name="Great job of presenting a lot of information and directives" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Great job of </tspan><tspan x="0" y="43">presenting a lot </tspan><tspan x="0" y="69">of information </tspan><tspan x="0" y="95">and directives</tspan></text>
+            </g>
+          </g>
+          <text id="Design" transform="translate(215 171)" fill="#0b111f" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Design</tspan></text>
+        </g>
+        <g id="Group_13" data-name="Group 13" transform="translate(584 -87)">
+          <g id="Group_11-2" data-name="Group 11" transform="translate(0 -37)">
+            <g id="Group_1-2" data-name="Group 1" transform="translate(0 193)">
+              <g transform="matrix(1, 0, 0, 1, -608, -69)" filter="url(#Rectangle_1-11)">
+                <rect id="Rectangle_1-31" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(655 131)" fill="#bcdfc9"/>
+              </g>
+              <text id="Easy_to_scan_the_whole_page_for_general_info_then_click_into_specifics" data-name="Easy to scan the whole page for general info then click into specifics" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Easy to scan the </tspan><tspan x="0" y="43">whole page for </tspan><tspan x="0" y="69">general info then </tspan><tspan x="0" y="95">click into specifics</tspan></text>
+            </g>
+            <g id="Group_3-2" data-name="Group 3" transform="translate(-18 431)">
+              <g transform="matrix(1, 0, 0, 1, -590, -307)" filter="url(#Rectangle_1-12)">
+                <rect id="Rectangle_1-32" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(637 369)" fill="#bcdfc9"/>
+              </g>
+              <text id="Easy_and_intuitive_to_locate_books_and_features" data-name="Easy and intuitive to locate books and features" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Easy and intuitive </tspan><tspan x="0" y="43">to locate books </tspan><tspan x="0" y="69">and features</tspan></text>
+            </g>
+            <g id="Group_5-2" data-name="Group 5" transform="translate(0 669)">
+              <g transform="matrix(1, 0, 0, 1, -608, -545)" filter="url(#Rectangle_1-13)">
+                <rect id="Rectangle_1-33" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(655 607)" fill="#fff69b"/>
+              </g>
+              <text id="List_of_books_categories_should_be_little_more_" data-name="List of books categories should be little more  " transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">List of books </tspan><tspan x="0" y="43">categories should </tspan><tspan x="0" y="69" xml:space="preserve">be little more  </tspan></text>
+            </g>
+            <g id="Group_6-2" data-name="Group 6" transform="translate(221 707)">
+              <g transform="matrix(1, 0, 0, 1, -829, -583)" filter="url(#Rectangle_1-14)">
+                <rect id="Rectangle_1-34" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(876 645)" fill="#bcdfc9"/>
+              </g>
+              <text id="Nothing_feels_confusing_from_scrolling_around." data-name="Nothing feels confusing from scrolling around." transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Nothing feels </tspan><tspan x="0" y="43">confusing from </tspan><tspan x="0" y="69">scrolling around.</tspan></text>
+            </g>
+            <g id="Group_10-2" data-name="Group 10" transform="translate(247 938)">
+              <g transform="matrix(1, 0, 0, 1, -855, -814)" filter="url(#Rectangle_1-15)">
+                <rect id="Rectangle_1-35" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(902 876)" fill="#fff69b"/>
+              </g>
+              <text id="Maybe_need_a_sitemap_" data-name="Maybe need a sitemap?" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Maybe need a </tspan><tspan x="0" y="43">sitemap?</tspan></text>
+            </g>
+            <g id="Group_7-2" data-name="Group 7" transform="translate(-18 907)">
+              <g transform="matrix(1, 0, 0, 1, -590, -783)" filter="url(#Rectangle_1-16)">
+                <rect id="Rectangle_1-36" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(637 845)" fill="#bcdfc9"/>
+              </g>
+              <text id="I_like_that_everything_I_need_is_right_up_top_and_all_on_the_bottom" data-name="I like that everything I need is right up top and all on the bottom" transform="translate(66 87)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">I like that </tspan><tspan x="0" y="43">everything I need </tspan><tspan x="0" y="69">is right up top </tspan><tspan x="0" y="95">and all on the </tspan><tspan x="0" y="121">bottom</tspan></text>
+            </g>
+            <g id="Group_4-2" data-name="Group 4" transform="translate(247 476)">
+              <g transform="matrix(1, 0, 0, 1, -855, -352)" filter="url(#Rectangle_1-17)">
+                <rect id="Rectangle_1-37" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(902 414)" fill="#f6c2d9"/>
+              </g>
+              <text id="Having_consistent_terminology_across_the_page_with_chat_would_be_helpful." data-name="Having consistent terminology across the page with chat would be helpful." transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Having consistent </tspan><tspan x="0" y="43">terminology </tspan><tspan x="0" y="69">across the page </tspan><tspan x="0" y="95">with chat would </tspan><tspan x="0" y="121">be helpful.</tspan></text>
+            </g>
+            <g id="Group_2-2" data-name="Group 2" transform="translate(235 238)">
+              <g transform="matrix(1, 0, 0, 1, -843, -114)" filter="url(#Rectangle_1-18)">
+                <rect id="Rectangle_1-38" data-name="Rectangle 1" width="200" height="200" rx="10" transform="translate(890 176)" fill="#fff69b"/>
+              </g>
+              <text id="Returning_to_homepage_to_access_the_list_should_be_bigger_in_size" data-name="Returning to homepage to access the list should be bigger in size" transform="translate(65 84)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Returning to </tspan><tspan x="0" y="43">homepage to </tspan><tspan x="0" y="69">access the list </tspan><tspan x="0" y="95">should be bigger </tspan><tspan x="0" y="121">in size</tspan></text>
+            </g>
+          </g>
+          <text id="Navigations" transform="translate(215 171)" fill="#0b111f" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Navigations</tspan></text>
+        </g>
+        <g id="Group_14" data-name="Group 14" transform="translate(1168 -87)">
+          <g id="Group_11-3" data-name="Group 11" transform="translate(0 -37)">
+            <g id="Group_1-3" data-name="Group 1" transform="translate(0 193)">
+              <g transform="matrix(1, 0, 0, 1, -1192, -69)" filter="url(#Rectangle_1-19)">
+                <rect id="Rectangle_1-39" data-name="Rectangle 1" width="452" height="452" rx="10" transform="translate(1239 131)" fill="#a1c8e9"/>
+              </g>
+              <text id="What_works_" data-name="What works?" transform="translate(74 101)" fill="#0b111f" font-size="24" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.7"><tspan x="0" y="23">What works?</tspan></text>
+              <g id="Group_16" data-name="Group 16" transform="translate(0 38)">
+                <text id="_-_Presenting_lots_of_info_and_directives" data-name="- Presenting lots of info and directives" transform="translate(74 127)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Presenting lots of info and directives</tspan></text>
+                <text id="_-_Streamlined_and_approachable" data-name="- Streamlined and approachable" transform="translate(74 159)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Streamlined and approachable</tspan></text>
+                <text id="_-_Recognizable_as_a_book_seller" data-name="- Recognizable as a book seller" transform="translate(74 191)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Recognizable as a book seller</tspan></text>
+                <text id="_-_Large_text_and_illustrations_" data-name="-  Large text and illustrations " transform="translate(74 223)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17" xml:space="preserve">-  Large text and illustrations </tspan></text>
+                <text id="_-_Does_not_feel_stressful" data-name="- Does not feel stressful" transform="translate(74 255)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Does not feel stressful</tspan></text>
+                <text id="_-_Trustworthy_and_informative_yet_friendly" data-name="- Trustworthy and informative, yet friendly" transform="translate(74 287)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Trustworthy and informative, yet friendly</tspan></text>
+                <text id="_-_Easy_to_scan_the_whole_page_for_info" data-name="- Easy to scan the whole page for info" transform="translate(74 319)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Easy to scan the whole page for info</tspan></text>
+                <text id="_-_Intuitive_for_locating_products" data-name="- Intuitive for locating products" transform="translate(74 351)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Intuitive for locating products</tspan></text>
+                <text id="_-_Everything_necessary_on_the_top_or_bottom" data-name="- Everything necessary on the top or bottom" transform="translate(74 383)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Everything necessary on the top or bottom</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_17" data-name="Group 17" transform="translate(1168 406)">
+          <g id="Group_11-4" data-name="Group 11" transform="translate(0 -37)">
+            <g id="Group_1-4" data-name="Group 1" transform="translate(0 193)">
+              <g transform="matrix(1, 0, 0, 1, -1192, -562)" filter="url(#Rectangle_1-20)">
+                <rect id="Rectangle_1-40" data-name="Rectangle 1" width="452" height="452" rx="10" transform="translate(1239 624)" fill="#a1c8e9"/>
+              </g>
+              <text id="Potential_Changes_" data-name="Potential Changes?" transform="translate(74 101)" fill="#0b111f" font-size="24" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.7"><tspan x="0" y="23">Potential Changes?</tspan></text>
+              <g id="Group_16-2" data-name="Group 16" transform="translate(0 36)">
+                <text id="Need:" transform="translate(74 127)" fill="#0b111f" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.7"><tspan x="0" y="17">Need:</tspan></text>
+                <text id="_-_More_visual_hierarchy_up_top" data-name="- More visual hierarchy up top" transform="translate(74 159)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- More visual hierarchy up top</tspan></text>
+                <text id="_-_Consistent_terminology" data-name="- Consistent terminology" transform="translate(74 191)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Consistent terminology</tspan></text>
+                <text id="_-_" data-name="- " transform="translate(74 223)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- </tspan></text>
+                <text id="Ability_to_buy_books_bundles_for_a_cheaper_price" data-name="Ability to buy books bundles for a cheaper price" transform="translate(86 223)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Ability to buy books bundles for a cheaper </tspan><tspan x="0" y="43">price</tspan></text>
+              </g>
+              <g id="Group_18" data-name="Group 18" transform="translate(0 209)">
+                <text id="Good_to_have:" data-name="Good to have:" transform="translate(74 127)" fill="#0b111f" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.7"><tspan x="0" y="17">Good to have:</tspan></text>
+                <text id="_-_Ability_to_drag_product_to_a_cart" data-name="- Ability to drag product to a cart" transform="translate(74 159)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- Ability to drag product to a cart</tspan></text>
+                <text id="_-_More_categories_of_the_books" data-name="- More categories of the books" transform="translate(74 191)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- More categories of the books</tspan></text>
+                <text id="_-_2" data-name="- " transform="translate(74 223)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">- </tspan></text>
+                <text id="Sitemap" transform="translate(86 223)" fill="#0b111f" font-size="18" font-family="Montserrat-Regular, Montserrat" opacity="0.7"><tspan x="0" y="17">Sitemap</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="3" height="1255" transform="translate(552 59)" fill="#ddd"/>
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="3" height="1255" transform="translate(1136 59)" fill="#ddd"/>
+      </g>
+    </g>
+  </g>
+</svg>

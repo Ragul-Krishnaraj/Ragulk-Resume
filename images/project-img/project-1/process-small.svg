@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="322" viewBox="0 0 584 322">
+  <g id="process-small" transform="translate(-86 -1649)">
+    <g id="Group_8229" data-name="Group 8229" transform="translate(0 -499)">
+      <rect id="Rectangle_1428" data-name="Rectangle 1428" width="173" height="50" rx="4" transform="translate(86 2148)" fill="#229099"/>
+      <text id="Identifying_Problem" data-name="Identifying Problem" transform="translate(173 2178)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.1em"><tspan x="-73.932" y="0">Identifying Problem</tspan></text>
+    </g>
+    <g id="Group_8230" data-name="Group 8230" transform="translate(205 -499)">
+      <rect id="Rectangle_1428-2" data-name="Rectangle 1428" width="173" height="50" rx="4" transform="translate(86 2148)" fill="rgba(34,144,153,0.9)"/>
+      <text id="User_Research" data-name="User Research" transform="translate(173 2178)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.1em"><tspan x="-52.164" y="0">User Research</tspan></text>
+    </g>
+    <g id="Group_8231" data-name="Group 8231" transform="translate(410 -499)">
+      <rect id="Rectangle_1428-3" data-name="Rectangle 1428" width="173" height="50" rx="4" transform="translate(86 2148)" fill="rgba(34,144,153,0.8)"/>
+      <text id="Define_Problem" data-name="Define Problem" transform="translate(173 2178)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.1em"><tspan x="-56.598" y="0">Define Problem</tspan></text>
+    </g>
+    <g id="Group_8232" data-name="Group 8232" transform="translate(1 -344)">
+      <rect id="Rectangle_1428-4" data-name="Rectangle 1428" width="173" height="50" rx="4" transform="translate(86 2148)" fill="rgba(34,144,153,0.7)"/>
+      <text id="Ideation" transform="translate(173 2178)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.1em"><tspan x="-30.21" y="0">Ideation</tspan></text>
+    </g>
+    <g id="Group_8233" data-name="Group 8233" transform="translate(206 -344)">
+      <rect id="Rectangle_1428-5" data-name="Rectangle 1428" width="173" height="50" rx="4" transform="translate(86 2148)" fill="rgba(34,144,153,0.6)"/>
+      <text id="Prototyping" transform="translate(173 2178)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.1em"><tspan x="-43.686" y="0">Prototyping</tspan></text>
+    </g>
+    <g id="Group_8234" data-name="Group 8234" transform="translate(411 -344)">
+      <rect id="Rectangle_1428-6" data-name="Rectangle 1428" width="173" height="50" rx="4" transform="translate(86 2148)" fill="rgba(34,144,153,0.5)"/>
+      <text id="UI_Designing" data-name="UI Designing" transform="translate(173 2178)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.1em"><tspan x="-47.25" y="0">UI Designing</tspan></text>
+    </g>
+    <text id="User_Inverview" data-name="User Inverview" transform="translate(291 1714)" fill="#6a6d73" font-size="14" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.1em"><tspan x="0" y="14">User Inverview</tspan></text>
+    <text id="Persona_Empathy_Mapping" data-name="Persona
+Empathy Mapping" transform="translate(496 1714)" fill="#6a6d73" font-size="14" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.1em"><tspan x="0" y="14">Persona</tspan><tspan x="0" y="42">Empathy Mapping</tspan></text>
+    <text id="User_Journey_User_Stories_User_Flow_Info._Architecture" data-name="User Journey
+User Stories
+User Flow
+Info. Architecture" transform="translate(86 1869)" fill="#6a6d73" font-size="14" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.1em"><tspan x="0" y="14">User Journey</tspan><tspan x="0" y="42">User Stories</tspan><tspan x="0" y="70">User Flow</tspan><tspan x="0" y="98">Info. Architecture</tspan></text>
+    <text id="Paper_Prototyping_Low-fidelity" data-name="Paper Prototyping
+Low-fidelity" transform="translate(291 1869)" fill="#6a6d73" font-size="14" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.1em"><tspan x="0" y="14">Paper Prototyping</tspan><tspan x="0" y="42">Low-fidelity</tspan></text>
+    <text id="High-fidelity_Prototyping" data-name="High-fidelity
+Prototyping" transform="translate(496 1869)" fill="#6a6d73" font-size="14" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.1em"><tspan x="0" y="14">High-fidelity</tspan><tspan x="0" y="42">Prototyping</tspan></text>
+  </g>
+</svg>
